@@ -12,4 +12,6 @@ This is a simple HTML invitation page built during the [Complete Web Development
 ## 💻 Technologies
 
 - HTML
+- Bootstrap
+- CSS
 
