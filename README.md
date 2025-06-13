@@ -1,6 +1,6 @@
 # TinDog Project
 
-This is a simple HTML invitation page built during the [Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Dr. Angela Yu.
+This is a Bootstrap page built during the [Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Dr. Angela Yu.
 
 ## 📋 What I learned
 
